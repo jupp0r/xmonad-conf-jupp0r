@@ -1,0 +1,4 @@
+This is my personal XMonad 0.9 configuration, it's optimized for being used to comfortably manage large amounts of terminal windows under OS X. It's based on the config file by Jelle van der Waa ( jelly12gen ), which I found at 
+
+http://www.haskell.org/haskellwiki/Xmonad/Config_archive/jelly(12gen)'s_xmonad.hs
+
